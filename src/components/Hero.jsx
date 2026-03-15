@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 export default function Hero() {
   return (
     <section className="bg-white py-12 px-4">
@@ -51,7 +50,6 @@ O PODER DO OZEMPIC EM CÁPSULAS.
       </div>
     </section>
   );
-=======
 export default function Hero() {
   return (
     <section className="bg-white py-12 px-4">
@@ -104,5 +102,4 @@ O PODER DO OZEMPIC EM CÁPSULAS.
       </div>
     </section>
   );
->>>>>>> b209dbbab8d96200a6aff07cce35df8270a48fde
 }
