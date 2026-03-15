@@ -1,4 +1,4 @@
-export default function WhatsappButton(){
+export default function WhatsAppButton(){
 
 return(
 
