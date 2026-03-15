@@ -1,4 +1,4 @@
-function Header() {
+export default function Header() {
   return (
     <header style={{background:"#fff", color:"#fff"}}>
       <img
@@ -7,7 +7,5 @@ alt="logo"
 style={{width:"380px",margin:"20px auto"}}
 />
     </header>
-  )
+  );
 }
-
-export default Header
